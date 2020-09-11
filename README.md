@@ -4,7 +4,7 @@
 ![Object](https://user-images.githubusercontent.com/9117538/92940100-ded56000-f478-11ea-973a-03efa5de2014.png)
 
 A simple example about how I design and implement script modules in a project.
-Read my blog ![ThoXayLamCoder](https://thoxaylamcoder.wordpress.com/2020/09/11/p1-ban-phan-tich-va-implement-mot-module-trong-project-nhu-the-nao-userstory-va-module/) to see the details of how I come up with it (sorry, it's Vietnamese blog).
+Read my blog [ThoXayLamCoder](https://thoxaylamcoder.wordpress.com/2020/09/11/p1-ban-phan-tich-va-implement-mot-module-trong-project-nhu-the-nao-userstory-va-module/) to see the details of how I come up with it (sorry, it's Vietnamese blog).
 
 # Screenshots
 
